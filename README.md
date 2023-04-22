@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">Python Programmer, focused on Automation, and Backend Development.</h3>
 
-- 🌱 I’m currently learning **Python, C++**
+- 🌱 I’m currently learning **Lua, Python, C++**
 
-- 💬 Ask me about **Python, Servers, Backend development.**
+- 💬 Ask me about **Lua, Python, Servers, Backend development.**
 
 - 📫 Discord: **coolname#5387**
 
