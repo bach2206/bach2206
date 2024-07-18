@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor</h1>
+<h1 align="center">Hi 👋, I'm Lucius</h1>
 <h3 align="center">Python Programmer, focused on Automation, and Backend Development.</h3>
 
 - 🌱 I’m currently learning **Lua, Python, C++**
