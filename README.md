@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duke</h1>
 <h3 align="center">Python Programmer, focused on Automation, and Backend Development.</h3>
 
-- 🌱 I’m currently learning **Lua, Python, C++**
+- 🌱 I’m currently learning **Lua, Python**
 
 - 💬 Ask me about **Lua, Python, Servers, Backend development.**
 
