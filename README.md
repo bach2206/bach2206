@@ -7,7 +7,7 @@
 <h3 align="center"><code>bach2206</code></h3>
 
 <p align="center">
-  Young founder, interested in researching data gravity.<br/>
+  Young founder, interested in data gravity.<br/>
   Started my first company in April 2025.
 </p>
 
